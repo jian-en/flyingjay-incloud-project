@@ -62,5 +62,5 @@ tagger:
 publisher:
         github:
             type: hyde.ext.publishers.dvcs.Git
-            path: .
-            url: git@github.com:jian-en/flyingjay-incloud-project.git
+            path: ./deploy
+            url: git@github.com:jian-en/jian-en.github.io.git
